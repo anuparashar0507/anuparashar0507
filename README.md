@@ -9,11 +9,11 @@
 🌱 Enthusiastic about tackling challenges and creating meaningful solutions. Dedicated to crafting seamless user experiences and driving innovation through technology. Eager to collaborate on exciting projects and contribute to open-source initiatives. Let's code something amazing together! 💻✨
 
 
-- 🔭 I’m currently working on React.js, Node.js, JavaScript, Next.js, Python, Django
+- 🔭 I’m currently working on React.js, Next.js, JavaScript, TypeScript, Node.js, Python, Django
 - 🌱 I’m currently learning Blockchain, Rust and Cloud Computing
-- 👯 I’m looking to collaborate on projects using React.js, Next.js, ChakraUI, Tailwind CSS
+- 👯 I’m looking to collaborate on projects using React.js, Next.js, TypeScript, ChakraUI, Tailwind CSS
 - 🤔 I’m looking for help with Blockchain, DevOps
-- 💬 Ask me about React.js, Node.js, JavaScript, Next.js
+- 💬 Ask me about React.js, Next.js, JavaScript, TypeScript, Node.js
 - 📫 How to reach me:  -  [Linkedin](https://www.linkedin.com/in/anupam-parashar/) or [Twitter](https://twitter.com/anuparashar0507)
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuparashar0507" alt="anuparashar0507" /></a> </p>
