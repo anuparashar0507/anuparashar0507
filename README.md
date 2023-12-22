@@ -2,7 +2,7 @@
 
 🚀 Passionate Full Stack Developer
 
-🌟 Expertise: React.js | Node.js | JavaScript | Next.js
+🌟 Expertise: React.js | Next.jss | JavaScript | TypeScript | Node.js
 
 🔧 Problem Solver | Innovator | Lifelong Learner
 
