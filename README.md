@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on React.js, Next.js, JavaScript, TypeScript, Node.js, Python, Django
-- 🌱 I’m currently learning Blockchain, Rust and Cloud Computing
+- 🌱 I’m currently learning Blockchain, and Cloud Computing
 - 👯 I’m looking to collaborate on projects using React.js, Next.js, TypeScript, ChakraUI, Tailwind CSS
 - 🤔 I’m looking for help with Blockchain, DevOps
 - 💬 Ask me about React.js, Next.js, JavaScript, TypeScript, Node.js
