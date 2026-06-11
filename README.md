@@ -2,7 +2,7 @@
 
 **Production AI Engineer.** I build AI systems that ship and move business numbers — not demos.
 
-🤖 7+ years shipping software · 5+ years on applied AI since 2021 (well before ChatGPT)
+🤖 7+ years shipping software · 5+ years on applied AI experience in production across different domains
 🏗️ Full-stack: Python/FastAPI backends · Next.js frontends · AWS infra
 🎯 Specialty: multi-agent systems, voice AI, RAG, agentic workflows in production
 
